@@ -124,7 +124,7 @@ def chk(_bot, update):
 
     message.reply_text(
 
-        f"*Available Commands*\n\n`este comando necesita premium.",
+        f"*cheking*\n`este comando necesita premium.",
 
         parse_mode="markdown"
 
